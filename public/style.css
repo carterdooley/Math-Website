@@ -1,0 +1,117 @@
+nav {
+    background-color: #3d5a80;
+    height: 100px;
+    text-align:center;
+    margin: 10px 0 0 0;
+    
+}
+
+body {
+    background-color: #293241;
+}
+
+.calc {
+    background-color:#4e4e50;
+    position: absolute;
+    left: 40%;
+    height: 400px;
+    width: 350PX;
+    top: 20%;
+    g
+}
+
+.btn {
+    color: black;
+    background-color: #ee6c4d;
+    /* margin-left: 4%; */
+    margin-top: 4%;
+    width: 70px;
+    height: 40px;
+}
+
+.buttons {
+    padding-top: 15%;
+    padding-left: 20%;
+    padding-bottom: 10%;
+}
+
+#input {
+    background-color: lightcoral;
+}
+
+#results {
+    background-color: #e0fbfc;
+    position: absolute;
+    top: 200px;
+    width: 200PX;
+}
+#int {
+    width: 97%;
+   position: absolute;
+   height: 10%;
+   background-color: green;
+   font: status-bar;
+   font-size: 26px;
+   text-align: center;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+    font-size: xx-large;
+}
+
+
+
+#equ {
+    background-color: rgb(158, 71, 71);
+}
+
+#result-head{
+    text-align: center;
+}
+
+.qe {
+    text-align: center;
+    background-color:#4e4e50 ;
+}
+
+.container {
+ display: flex;
+}
+
+.reso{
+    text-align: center;
+    background-color:#98c1d9 ;
+    width: 40%;
+    margin-right: 10px;
+    flex: 1;
+}
+
+.play {
+    text-align: center;
+    background-color:#98c1d9;  
+    width: 50%; 
+ 
+}
+
+.uList {
+    height: 400px;
+    background-color:#e0fbfc;
+}
+
+.mus-list {
+    background-color:#e0fbfc;
+}
+
+a {
+    color: black;
+    text-decoration-color: cornflowerblue;
+}
+
+.title1 {
+    color: #e0fbfc;
+    background-color: #ee6c4d;
+    background-size: 20px;
+}
+
